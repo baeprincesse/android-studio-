@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BA2A</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="password">Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="gender">Gender</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="create_account">Create Account</string>
+    <string name="email_address">Email Address</string>
+</resources>
